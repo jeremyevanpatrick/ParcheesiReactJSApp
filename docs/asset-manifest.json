@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf1f615e.chunk.css",
-    "main.js": "/static/js/main.1818ddea.chunk.js",
-    "main.js.map": "/static/js/main.1818ddea.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.67f9e71d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.67f9e71d.js.map",
-    "static/js/2.982f0c2d.chunk.js": "/static/js/2.982f0c2d.chunk.js",
-    "static/js/2.982f0c2d.chunk.js.map": "/static/js/2.982f0c2d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cf1f615e.chunk.css.map": "/static/css/main.cf1f615e.chunk.css.map",
-    "static/js/2.982f0c2d.chunk.js.LICENSE.txt": "/static/js/2.982f0c2d.chunk.js.LICENSE.txt"
+    "main.css": "/ParcheesiReactJSApp/static/css/main.cf1f615e.chunk.css",
+    "main.js": "/ParcheesiReactJSApp/static/js/main.1818ddea.chunk.js",
+    "main.js.map": "/ParcheesiReactJSApp/static/js/main.1818ddea.chunk.js.map",
+    "runtime-main.js": "/ParcheesiReactJSApp/static/js/runtime-main.3c9f0978.js",
+    "runtime-main.js.map": "/ParcheesiReactJSApp/static/js/runtime-main.3c9f0978.js.map",
+    "static/js/2.982f0c2d.chunk.js": "/ParcheesiReactJSApp/static/js/2.982f0c2d.chunk.js",
+    "static/js/2.982f0c2d.chunk.js.map": "/ParcheesiReactJSApp/static/js/2.982f0c2d.chunk.js.map",
+    "index.html": "/ParcheesiReactJSApp/index.html",
+    "static/css/main.cf1f615e.chunk.css.map": "/ParcheesiReactJSApp/static/css/main.cf1f615e.chunk.css.map",
+    "static/js/2.982f0c2d.chunk.js.LICENSE.txt": "/ParcheesiReactJSApp/static/js/2.982f0c2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67f9e71d.js",
+    "static/js/runtime-main.3c9f0978.js",
     "static/js/2.982f0c2d.chunk.js",
     "static/css/main.cf1f615e.chunk.css",
     "static/js/main.1818ddea.chunk.js"
